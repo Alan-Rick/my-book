@@ -1,0 +1,1 @@
+import{_ as a,o,c as t,a as e,b as n}from"./app.fe187a85.js";const c={},d=e("h1",{id:"handoop",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#handoop","aria-hidden":"true"},"#"),n(" handoop")],-1),r=[d];function s(_,h){return o(),t("div",null,r)}const l=a(c,[["render",s],["__file","index.html.vue"]]);export{l as default};

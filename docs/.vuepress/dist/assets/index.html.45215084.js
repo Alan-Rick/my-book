@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-52847a07","path":"/bigdata/kafka/","title":"kafka","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"bigdata/kafka/README.md"}');export{a as data};
